@@ -1,6 +1,6 @@
-## Getting Started
+## JAVA PROJECT
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+In this repo will be filled by Java Languange in all of Project 
 
 ## Folder Structure
 
