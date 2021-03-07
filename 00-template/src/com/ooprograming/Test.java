@@ -16,6 +16,8 @@ public class Test {
         key = input.nextInt();
         encrypt(pesan, key);
 
+        System.out.println("created by Ihsan");
+
     }
 
     public static String encrypt(String pesan,int key)
